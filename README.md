@@ -1,6 +1,6 @@
-# _PROJECT NAME_
+# _Cipher_
 
-#### _EPICODUS PRACTICE: Sample one-sentence description_
+#### _EPICODUS PRACTICE: bonus function writing practice_
 
 #### By _**Ella Tanttu**_
 
@@ -14,15 +14,15 @@
 
 ## Description
 
-_{Detailed description that explains the project and what concepts were being practiced.}_
+_{A web application that encodes a sentence from the user, in order to make it coded and prevent others from being able to easily read it.}_
 
 ## Setup/Installation Requirements
 
-* _Navigate to https://github.com/url-path in your browser_
+* _Navigate to https://github.com/ellajtanttu/cipher in your browser_
 * _Clone this repository to your desktop_
 * _Navigate to the top level of the directory_
 * _Connect to your github repository_
-* _open DIRECTORYNAME/index.html in your browser_
+* _open cipher/index.html in your browser_
 * _Open index.html and styles.css in VS Code to edit_
 
 ## Known Bugs
