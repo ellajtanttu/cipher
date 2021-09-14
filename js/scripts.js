@@ -24,11 +24,16 @@ $(document).ready(function() {
   const lastLetter = capEnd(noPeriod);
   console.log("lastLetter = " + lastLetter);
   
-  function finalSentence() {
-    return noPeriod.substring(0, sentLength) + lastLetter + ".";
+  function finalSentence(string) {
+    return string.substring(0, sentLength) + lastLetter + ".";
   }
   
-  alert(finalSentence());  
+  const firstLastCaps = finalSentence(noPeriod);
+  console.log("firstLastCaps = " + firstLastCaps);
+
+  function reverseLets() {
+    
+}  
 
 });
 
